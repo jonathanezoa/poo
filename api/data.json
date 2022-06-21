@@ -1,0 +1,29 @@
+[
+    {
+        "firstName" : "jonathan",
+        "lastName" : "Ezoa",
+        "age" : 23,
+        "other" : {
+            "level" : "master",
+            "sector" : "informatique"
+        }
+    },
+    {
+        "firstName" : "thirsta",
+        "lastName" : "Ezoa",
+        "age" : 23,
+        "other" : {
+            "level" : "master",
+            "sector" : "informatique"
+        }
+    },
+    {
+        "firstName" : "jemima",
+        "lastName" : "Ezoa",
+        "age" : 23,
+        "other" : {
+            "level" : "master",
+            "sector" : "informatique"
+        }
+    }
+]
